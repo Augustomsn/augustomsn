@@ -7,4 +7,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustomsn&layout=compact&hide_border=true&title_color=005eff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Augustomsn&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Augustomsn&color=005eff&hide_border=true&area=true)
